@@ -1,0 +1,5 @@
+guessit==3.8.0
+PyQt6==6.10.1
+pyqt6_sip==13.10.3
+rapidfuzz==3.14.3
+Requests==2.32.5
